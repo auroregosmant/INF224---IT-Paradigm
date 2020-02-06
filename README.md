@@ -2,6 +2,7 @@
 Client/Server Java C++ January 2020
 Student : Aurore GOSMANT
 
+
 STEP 1 :  
 //
 
@@ -56,14 +57,13 @@ In order to only be able to create a multimedia object when it is created by the
 
 STEP 11 :
 The following methods were implemented : 
-find <name> ---------- > Searches a multimedia object or group in the table.
-play <name>---------- > Plays the multimedia object.
-createPhoto <name> -------→ Creates a photo, adds it to the table and sets it path by default to « ./name.png ».
-createVideo <name> --------→ Creates a video, adds it to the table and sets by default path « ./video.mp4 ».
-createGroup <name> ------→ Creates a group, and adds it to the table.
-printObjects ---------------→ Prints all objects contained in the table
-printGroups ------------→ Print all groups contained in the table, and the multimedia objects it contains.
-
+find <name> -→ Searches a multimedia object or group in the table.
+play <name>-→ Plays the multimedia object.
+createPhoto <name> -→ Creates a photo, adds it to the table and sets it path by default to « ./name.png ».
+createVideo <name> -→ Creates a video, adds it to the table and sets by default path « ./video.mp4 ».
+createGroup <name> -→ Creates a group, and adds it to the table.
+printObjects -→ Prints all objects contained in the table
+printGroups -→ Print all groups contained in the table, and the multimedia objects it contains.
 
 
 STEP 12 :
